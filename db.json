@@ -1,0 +1,456 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Etek",
+      "quantityPerUnit": "1",
+      "unitPrice": 24,
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Acer Laptop",
+      "quantityPerUnit": "1",
+      "unitPrice": 21,
+      "unitsInStock": 17
+    },
+    {
+      "id": 3,
+      "categoryId": 1,
+      "productName": "Monster NoteBook",
+      "quantityPerUnit": "1",
+      "unitPrice": 222,
+      "unitsInStock": 53
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "productName": "Masa",
+      "quantityPerUnit": "1",
+      "unitPrice": 21,
+      "unitsInStock": 0
+    },
+    
+
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Terlik",
+      "quantityPerUnit": "10-1box",
+      "unitPrice": 40,
+      "unitsInStock": 100
+    },
+    
+    {
+      "id": 6,
+      "categoryId": 4,
+      "productName": "Tava",
+      "quantityPerUnit": "3-1box",
+      "unitPrice": 21,
+      "unitsInStock": 22
+    },
+    {
+      "id": 7,
+      "categoryId": 4,
+      "productName": "A4 Kağıdı",
+      "quantityPerUnit": "500-1box",
+      "unitPrice": 38,
+      "unitsInStock": 86
+    },
+  
+    {
+      "id": 8,
+      "categoryId": 2,
+      "productName": "Ceket",
+      "quantityPerUnit": "20-1box",
+      "unitPrice": 15.5,
+      "unitsInStock": 39
+    },
+    {
+      "id": 9,
+      "categoryId": 3,
+      "productName": "Güneş Kremi",
+      "quantityPerUnit": "40-1box",
+      "unitPrice": 17.45,
+      "unitsInStock": 29
+    },
+
+    {
+      "id": 10,
+      "categoryId": 3,
+      "productName": "Diş Fırçası",
+      "quantityPerUnit": "5-1box",
+      "unitPrice": 9.2,
+      "unitsInStock": 25
+    },
+    {
+      "id": 11,
+      "categoryId": 3,
+      "productName": "Tıraş Bıçağı",
+      "quantityPerUnit": "8-1box",
+      "unitPrice": 81,
+      "unitsInStock": 40
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "productName": "Ruj",
+      "quantityPerUnit": "2-1box",
+      "unitPrice": 10,
+      "unitsInStock": 3
+    },
+    {
+      "id": 13,
+      "categoryId": 5,
+      "productName": "Sporcu Ayakkabı",
+      "quantityPerUnit": "1",
+      "unitPrice": 21,
+      "unitsInStock": 104
+    },
+    {
+      "id": 14,
+      "categoryId": 5,
+      "productName": "Tenis Raketi",
+      "quantityPerUnit": "2-1box",
+      "unitPrice": 9,
+      "unitsInStock": 61
+    },
+    {
+      "id": 15,
+      "categoryId": 1,
+      "productName": "Msi Laptop",
+      "quantityPerUnit": "1",
+      "unitPrice": 4.5,
+      "unitsInStock": 20
+    },
+    {
+      "id": 16,
+      "categoryId": 3,
+      "productName": "Pudra",
+      "quantityPerUnit": "1",
+      "unitPrice": 14,
+      "unitsInStock": 76
+    },
+    {
+      "id": 17,
+      "categoryId": 3,
+      "productName": "Kolonya",
+      "quantityPerUnit": "1",
+      "unitPrice": 31.23,
+      "unitsInStock": 15
+    },
+    {
+      "id": 18,
+      "categoryId": 3,
+      "productName": "Ağda",
+      "quantityPerUnit": "1-20box",
+      "unitPrice": 25,
+      "unitsInStock": 23
+    },
+    {
+      "id": 19,
+      "categoryId": 4,
+      "productName": "Lambader",
+      "quantityPerUnit": "1",
+      "unitPrice": 12.5,
+      "unitsInStock": 0
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "productName": "Duvar Kağıdı",
+      "quantityPerUnit": "20m-1",
+      "unitPrice": 32,
+      "unitsInStock": 9
+    },
+    {
+      "id": 21,
+      "categoryId": 4,
+      "productName": "Ofis Masası",
+      "quantityPerUnit": "1",
+      "unitPrice": 2.5,
+      "unitsInStock": 112
+    },
+    {
+      "id": 22,
+      "categoryId": 1,
+      "productName": "Huawei Phone",
+      "quantityPerUnit": "1",
+      "unitPrice": 14,
+      "unitsInStock": 111
+    },
+    {
+      "id": 23,
+      "categoryId": 1,
+      "productName": "Samsung Phone",
+      "quantityPerUnit": "1",
+      "unitPrice": 18,
+      "unitsInStock": 20
+    },
+
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Apple Watch",
+      "quantityPerUnit": "1",
+      "unitPrice": 263.5,
+      "unitsInStock": 17
+    },
+    {
+      "id": 25,
+      "categoryId": 1,
+      "productName": "Xiomi",
+      "quantityPerUnit": "1",
+      "unitPrice": 18,
+      "unitsInStock": 69
+    },
+    {
+      "id": 26,
+      "categoryId": 5,
+      "productName": "Eşorfman",
+      "quantityPerUnit": "2",
+      "unitPrice": 14,
+      "unitsInStock": 26
+    },
+    {
+      "id": 27,
+      "categoryId": 1,
+      "productName": "Elektrikli Süpürge",
+      "quantityPerUnit": "1",
+      "unitPrice": 46,
+      "unitsInStock": 17
+    },
+    {
+      "id": 28,
+      "categoryId": 2,
+      "productName": "Jean",
+      "quantityPerUnit": "1",
+      "unitPrice": 19.45,
+      "unitsInStock": 27
+    },
+    {
+      "id": 29,
+      "categoryId": 3,
+      "productName": "Yüz Bakım Kremi",
+      "quantityPerUnit": "12-1box",
+      "unitPrice": 9.5,
+      "unitsInStock": 36
+    },
+    {
+      "id": 30,
+      "categoryId": 3,
+      "productName": "Saç Bakım Kremi",
+      "quantityPerUnit": "1",
+      "unitPrice": 12.75,
+      "unitsInStock": 15
+    },
+    {
+      "id": 31,
+      "categoryId": 3,
+      "productName": "El Kremi",
+      "quantityPerUnit": "1-10box",
+      "unitPrice": 20,
+      "unitsInStock": 10
+    },
+    {
+      "id": 32,
+      "categoryId": 3,
+      "productName": "Şampuan",
+      "quantityPerUnit": "1",
+      "unitPrice": 16.25,
+      "unitsInStock": 65
+    },
+
+    {
+      "id": 33,
+      "categoryId": 5,
+      "productName": "Halter",
+      "quantityPerUnit": "2",
+      "unitPrice": 7,
+      "unitsInStock": 38
+    },
+    {
+      "id": 34,
+      "categoryId": 5,
+      "productName": "Koşu Bandı",
+      "quantityPerUnit": "1",
+      "unitPrice": 3800,
+      "unitsInStock": 21
+    },
+    {
+      "id": 35,
+      "categoryId": 5,
+      "productName": "Koşu Ayakkabısı",
+      "quantityPerUnit": "1",
+      "unitPrice": 195,
+      "unitsInStock": 36
+    },
+    {
+      "id": 36,
+      "categoryId": 4,
+      "productName": "Defter",
+      "quantityPerUnit": "5-1box",
+      "unitPrice": 5,
+      "unitsInStock": 79
+    },
+    {
+      "id": 37,
+      "categoryId": 4,
+      "productName": "Kalem",
+      "quantityPerUnit": "1-20box",
+      "unitPrice": 34,
+      "unitsInStock": 19
+    },
+    {
+      "id": 38,
+      "categoryId": 2,
+      "productName": "Boxer",
+      "quantityPerUnit": "1",
+      "unitPrice": 28.5,
+      "unitsInStock": 113
+    },
+    {
+      "id": 39,
+      "categoryId": 3,
+      "productName": "Deodarant",
+      "quantityPerUnit": "1",
+      "unitPrice": 49.3,
+      "unitsInStock": 17
+    },
+    {
+      "id": 40,
+      "categoryId": 2,
+      "productName": "Gömlek",
+      "quantityPerUnit": "2",
+      "unitPrice": 43.9,
+      "unitsInStock": 24
+    },
+    {
+      "id": 41,
+      "categoryId": 5,
+      "productName": "Olta",
+      "quantityPerUnit": "1",
+      "unitPrice": 33.25,
+      "unitsInStock": 22
+    },
+    {
+      "id": 42,
+      "categoryId": 2,
+      "productName": "Eşorfman",
+      "quantityPerUnit": "1",
+      "unitPrice": 21.05,
+      "unitsInStock": 76
+    },
+    {
+      "id": 43,
+      "categoryId": 2,
+      "productName": "T-shirt",
+      "quantityPerUnit": "1-7box",
+      "unitPrice": 17,
+      "unitsInStock": 4
+    },
+    {
+      "id": 44,
+      "categoryId": 1,
+      "productName": "Akıllı Lamba",
+      "quantityPerUnit": "1",
+      "unitPrice": 14,
+      "unitsInStock": 52
+    },
+    {
+      "id": 45,
+      "categoryId": 3,
+      "productName": "Parfüm",
+      "quantityPerUnit": "1",
+      "unitPrice": 12.5,
+      "unitsInStock": 6
+    },
+    {
+      "id": 46,
+      "categoryId": 4,
+      "productName": "Yastık",
+      "quantityPerUnit": "1",
+      "unitPrice": 36,
+      "unitsInStock": 26
+    },
+    {
+      "id": 47,
+      "categoryId": 1,
+      "productName": "LG Televizyon",
+      "quantityPerUnit": "1",
+      "unitPrice": 15,
+      "unitsInStock": 15
+    },
+    {
+      "id": 48,
+      "categoryId": 4,
+      "productName": "Yorgan",
+      "quantityPerUnit": "1",
+      "unitPrice": 21.5,
+      "unitsInStock": 26
+    },
+    {
+      "id": 49,
+      "categoryId": 4,
+      "productName": "Nevresim",
+      "quantityPerUnit": "1",
+      "unitPrice": 34.8,
+      "unitsInStock": 14
+    },
+    {
+      "id": 50,
+      "categoryId": 1,
+      "productName": "Hoparlör",
+      "quantityPerUnit": "1",
+      "unitPrice": 7.75,
+      "unitsInStock": 125
+    },
+    {
+      "id": 51,
+      "categoryId": 1,
+      "productName": "Uydu Alıcılar",
+      "quantityPerUnit": "1",
+      "unitPrice": 185,
+      "unitsInStock": 57
+    },
+    {
+      "id": 52,
+      "categoryId": 2,
+      "productName": "Mont",
+      "quantityPerUnit": "2-1box",
+      "unitPrice": 13,
+      "unitsInStock": 32
+    }
+    
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Elektronik",
+      "seoUrl": "elektronik"
+    },
+    {
+      "id": 2,
+      "categoryName": "Moda",
+      "seoUrl": "moda"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kozmetik",
+      "seoUrl": "kozmatik"
+    },
+    {
+      "id": 4,
+      "categoryName": "Ev,Yaşam,Kırtasiye,Ofis",
+      "seoUrl": "ev-yasam-kirtasiye-ofis"
+    },
+    {
+      "id": 5,
+      "categoryName": "Spor",
+      "seoUrl": "spor"
+    }
+    
+  ]
+}
