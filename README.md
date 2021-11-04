@@ -1,5 +1,4 @@
-https://my-hangam-semih.netlify.app
---Web version
+
 
 # Getting Started with Create React App
 
